@@ -1,0 +1,140 @@
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+  background: rgb(6, 46, 45);
+  background: linear-gradient(97deg, rgba(196,232,231,0.8323704481792717) 0%, rgba(49,209,255,0.6979166666666667) 100%);
+}
+
+
+
+header {
+  background: rgb(45, 63, 63);
+  
+  color: #fbffff;
+  
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+ 
+  border-bottom: 1px solid #ccc;
+  padding: 30px;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  
+}
+nav li {
+  display: inline-block;
+  margin-right: 198px;
+  
+}
+nav li a {
+  color: #56837f;
+  text-decoration: none;
+  padding: 5px;
+  
+}
+nav li a:hover {
+ color: #ffffff;
+}
+main {
+  margin: 20px;
+}
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: normal;
+  text-align: center;
+  font-size: 2.5rem;
+}
+h2 {
+  color: rgb(103, 138, 138);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  text-align: center;
+
+
+
+}
+section {
+  margin-bottom: 20px;
+}
+p {
+  display: block;
+  width: 50%;
+    margin: auto;
+    text-align: justify;
+    line-height: 2;
+    margin-bottom: 100px;
+  color: rgb(19, 49, 49);
+}
+
+a.button {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: rgb(19, 49, 49);
+  margin: 0;
+  text-decoration: none;
+}
+
+a:hover {
+    color: #474553;
+   }
+
+#hbday {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  padding: 50px; 
+}
+
+#milan {
+    background: rgb(221,8,8);
+    background: linear-gradient(243deg, rgba(221,8,8,1) 0%, rgba(0,0,0,1) 86%);
+}
+
+p.mil {
+    font-family: 'Montserrat', sans-serif;
+    color: #fbffff;
+}
+
+div {
+    background-color: #fbffff;
+}
+
+img {
+  max-width: 40%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+iframe {background: rgb(6, 46, 45);
+  max-width: 100%;
+  height: 315px;
+  display: block;
+  margin: 0 auto;
+}
+
+p.align {
+    
+   
+      margin: auto;
+      text-align: center;
+      line-height: 2;
+      
+    color: rgb(6, 46, 45);
+  }
+
+footer {
+  background-color: #19aaaa;
+  color: #fff;
+  padding: 10px;
+  text-align: right;
+}
